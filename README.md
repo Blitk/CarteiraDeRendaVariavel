@@ -1,3 +1,4 @@
+##CarteiraDeRendaVariavel
 
 Aplicação desktop para gerenciamento de carteira de ações desenvolvida em Java utilizando Spring Boot, SQLite e JavaFX.
 
@@ -107,13 +108,13 @@ A aplicação utiliza JavaFX Charts para exibir:
 ## 1. Clonar o repositório
 
 ```
-git clone https://github.com/blitk/
+git clone https://github.com/blitk/CarteiraDeRendaVariavel
 ```
 
 ## 2. Entrar na pasta
 
 ```
-cd 
+cd CarteiraDeRendaVariavel
 ```
 
 ## 3. Executar o projeto
