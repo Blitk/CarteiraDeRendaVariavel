@@ -24,7 +24,7 @@ O sistema permite cadastrar ativos da carteira, buscar automaticamente o preço 
 - Spring Boot
 - SQLite
 - JavaFX
-- JPA / Hibernate
+- JPA/Hibernate
 - REST APIs
 - Maven
 
